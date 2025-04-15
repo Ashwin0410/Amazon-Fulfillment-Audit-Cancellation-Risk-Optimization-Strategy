@@ -27,6 +27,7 @@ We simulate **what would happen if we rerouted risky orders from Merchant to Ama
 ---
 
 ## Dataset Overview
+Link - http://kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 - Source: Amazon order-level sales export  
 - Rows: 128,975 orders  
